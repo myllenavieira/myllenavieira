@@ -1,5 +1,6 @@
 # 💫 About Me:
-A materials engineer who is also a developer.
+Olá! Sou uma engenheira que decidiu migrar pro desenvolvimento. Apaixonada por tecnologia e tudo que a envolve. 
+💼 Atualmente estou no curso de desenvolvimento Web Fullstack da Labenu.
 
 
 ## 🌐 Socials:
